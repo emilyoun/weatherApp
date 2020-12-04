@@ -1,4 +1,3 @@
-
 const api = {
   key: "a93837684f7eb5c841b352db1c40bfc9",
   base: "http://api.openweathermap.org/data/2.5/"
@@ -51,8 +50,3 @@ function displaytheResults (weather) {
     return `${day} ${date} ${month} ${year}`;
   
 }
-
-
-
-
-
